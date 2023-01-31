@@ -1,0 +1,2 @@
+# dango_lec
+djangoproject
